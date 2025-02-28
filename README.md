@@ -7,7 +7,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a Customer Performance Report (https://github.com/LakshmiMadhu1985/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf.md)
+    **1.** Create a Customer Performance Report (https://github.com/LakshmiMadhu1985/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf)
 
     **2.** Conduct a comprehensive comparison between https://github.com/LakshmiMadhu1985/Excel-Sales-Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
 
